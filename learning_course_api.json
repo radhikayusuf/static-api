@@ -6,12 +6,12 @@
       "title": "Pemodelan Data",
       "steps_count": 5,
       "sub_title": "Untuk Pemula",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoQJazpADZzh6bkZ89cAUGBMW1--Vov-KeC_ZwiWdsUxRvKc7M",
+      "image_url": "'https://i.ibb.co/vDfFpfw/image.png'",
       "total_time": 36000,
       "desc": "Model data sendiri dapat didefinisikan sebagai kumpulan perangkat konseptual untuk menggambarkan data, hubungan data, semantik (makna) data dan btasan data.",
       "steps": [
         {
-          "title": "Pemodelan data.",
+          "title": "Pemodelan data",
           "estimation": 9000,
           "image_header": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpXvHAekY0Zr9M6Qw2CUiCLgG6tgtm_MsNfChTr77hRdyoFCfO",
           "content" : "<p>Model data sendiri dapat didefinisikan sebagai kumpulan perangkat konseptual untuk menggambarkan data, hubungan data, semantik (makna) data dan btasan data. Oleh karena yang ingin ditunjukkan adalah makna dari data dan keterhubungannya dengan data lain, maka model data ini lebih tepat jika disebut <strong>Model Data Lojik</strong>. Penyingkatannya menjadi Model Data dilakukan demi penyederhanaan penulisan.</p> Ada sejumlah cara dalam merepresentasikan Model Data dalam perancangan <strong>basis data</strong>, yang secara umum dapat dibagi dalam 2 kelompok, yaitu :"
