@@ -36,7 +36,7 @@
       "sub_title": "Untuk Pemula",
       "image_url": "'https://i.ibb.co/vDfFpfw/image.png'",
       "total_time": 36000,
-      "desc": "<p>Pada model Entity-Relationship, semesta data yang ada di dunia nyata diterjemahkan dengan memanfaatkan sejumlah perangkat konseptual menjadi sebuah diagram data, yang umum disebut sebagai diagram entity-relationship (Diagram E-R). Komponen-komponen pembentuk diagram E-R, sesuai dengan namanya, ada dua komponen utama yaitu Entitas (entity) dan Relasi (relation). Kedua komponen ini dideskripsikan lebih jauh melalui sejumlah Atribut / Properti.</p>",
+      "desc": "Pada model Entity-Relationship, semesta data yang ada di dunia nyata diterjemahkan dengan memanfaatkan sejumlah perangkat konseptual menjadi sebuah diagram data, yang umum disebut sebagai diagram entity-relationship (Diagram E-R). Komponen-komponen pembentuk diagram E-R, sesuai dengan namanya, ada dua komponen utama yaitu Entitas (entity) dan Relasi (relation). Kedua komponen ini dideskripsikan lebih jauh melalui sejumlah Atribut / Properti.",
       "steps": [
         {
           "title": "Entitas (Entity) dan Himpunan Entitas (Entity Set)",
