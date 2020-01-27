@@ -6,7 +6,7 @@
       "title": "Pemodelan Data",
       "steps_count": 5,
       "sub_title": "Untuk Pemula",
-      "image_url": "'https://i.ibb.co/KXVNhVD/basisdata.jpg'",
+      "image_url": "'https://i.ibb.co/vDfFpfw/image.png'",
       "total_time": 36000,
       "desc": "Model data sendiri dapat didefinisikan sebagai kumpulan perangkat konseptual untuk menggambarkan data, hubungan data, semantik (makna) data dan btasan data.",
       "steps": [
@@ -36,7 +36,7 @@
       "sub_title": "Untuk Pemula",
       "image_url": "'https://i.ibb.co/vDfFpfw/image.png'",
       "total_time": 36000,
-      "desc": "Pada model Entity-Relationship, semesta data yang ada di dunia nyata diterjemahkan dengan memanfaatkan sejumlah perangkat konseptual menjadi sebuah diagram data, yang umum disebut sebagai diagram entity-relationship (Diagram E-R). Komponen-komponen pembentuk diagram E-R, sesuai dengan namanya, ada dua komponen utama yaitu Entitas (entity) dan Relasi (relation). Kedua komponen ini dideskripsikan lebih jauh melalui sejumlah Atribut / Properti.",
+      "desc": "<p>Pada model Entity-Relationship, semesta data yang ada di dunia nyata diterjemahkan dengan memanfaatkan sejumlah perangkat konseptual menjadi sebuah diagram data, yang umum disebut sebagai diagram entity-relationship (Diagram E-R). Komponen-komponen pembentuk diagram E-R, sesuai dengan namanya, ada dua komponen utama yaitu Entitas (entity) dan Relasi (relation). Kedua komponen ini dideskripsikan lebih jauh melalui sejumlah Atribut / Properti.</p>",
       "steps": [
         {
           "title": "Entitas (Entity) dan Himpunan Entitas (Entity Set)",
@@ -105,7 +105,40 @@
           "content" : "<p>Dalam relaitas dapat pula dijumpai adana realasi yang secara kronologis mensyaratkan telah adanya relasi lain. Dengan kata lain, sebuah relasi terbentuk tidak hanya dari entitas tapi juga mengandung unsur dari relasi lain. Fenomena demikian dapat diakomodasi dengan agregasi. Menggambarkan sebuah himunan relasi yang secara langsung menghubungkan sebuah himpunan relasi yang secara langsung menghubungkan sebuah himpunan relasi yang secara langsung menghubungkan sebuah himpunan entitas dengan sebuah himpunan relasi dalam diagram E-R, sebenarnya tidak tepat atau bahkan ada yang dengan tegas tidak memperbolehkannya. Karena itu, sebagai jalan tengah, dapat menggunakan notasi khusus untuk menunjukkan adanya agregasi semacam itu.</p> <p>Contoh : terdapat relasi antara himpunan entitas mahasiswa dan himpunan entitas kuliah. Ada sejumlah mata kuliah yang membutuhkan kegiatan praktikum (tidak semua). Diagram E-R yang dapat digambarkan untuk kasus ini yaitu :</p>"
         }
       ]
+    },
+    {
+      "title": "Cara Membuat Aplikasi android",
+      "steps_count": 5,
+      "sub_title": "Untuk Pemula",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoQJazpADZzh6bkZ89cAUGBMW1--Vov-KeC_ZwiWdsUxRvKc7M",
+      "total_time": 36000,
+      "desc": "Ini merupakan tutorial singkat untuk android, sangat di rekomendasikan untuk awal pembelajaran programming, lorem ipsum dolor sit amet.",
+      "steps": [
+        {
+          "title": "Mempelajari Layout",
+          "estimation": 9000,
+          "image_header": "'https://i.ibb.co/vDfFpfw/image.png'",
+          "content" : "<b>Lorem ipsum dolor</b> adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an, saat seorang tukang cetak yang tidak dikenal mengambil sebuah kumpulan teks dan mengacaknya untuk menjadi sebuah buku contoh huruf. Ia tidak hanya bertahan selama 5 abad, tapi juga telah beralih ke penataan huruf elektronik, tanpa ada perubahan apapun. Ia mulai dipopulerkan pada tahun 1960 dengan diluncurkannya lembaran-lembaran Letraset yang menggunakan kalimat-kalimat dari Lorem Ipsum, dan seiring munculnya perangkat lunak Desktop Publishing seperti Aldus PageMaker juga memiliki versi Lorem Ipsum."
+        },
+        {
+          "title": "Mempelajari Java",
+          "estimation": 9000,
+          "image_header": "'https://i.ibb.co/vDfFpfw/image.png'",
+          "content" : "<b>Lorem ipsum dolor</b> adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an, saat seorang tukang cetak yang tidak dikenal mengambil sebuah kumpulan teks dan mengacaknya untuk menjadi sebuah buku contoh huruf. Ia tidak hanya bertahan selama 5 abad, tapi juga telah beralih ke penataan huruf elektronik, tanpa ada perubahan apapun. Ia mulai dipopulerkan pada tahun 1960 dengan diluncurkannya lembaran-lembaran Letraset yang menggunakan kalimat-kalimat dari Lorem Ipsum, dan seiring munculnya perangkat lunak Desktop Publishing seperti Aldus PageMaker juga memiliki versi Lorem Ipsum."
+        },
+        {
+          "title": "Memahami Activity",
+          "estimation": 9000,
+          "image_header": "'https://i.ibb.co/vDfFpfw/image.png'",
+          "content" : "<b>Lorem ipsum dolor</b> adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an, saat seorang tukang cetak yang tidak dikenal mengambil sebuah kumpulan teks dan mengacaknya untuk menjadi sebuah buku contoh huruf. Ia tidak hanya bertahan selama 5 abad, tapi juga telah beralih ke penataan huruf elektronik, tanpa ada perubahan apapun. Ia mulai dipopulerkan pada tahun 1960 dengan diluncurkannya lembaran-lembaran Letraset yang menggunakan kalimat-kalimat dari Lorem Ipsum, dan seiring munculnya perangkat lunak Desktop Publishing seperti Aldus PageMaker juga memiliki versi Lorem Ipsum."
+        },
+        {
+          "title": "Membuat aplikasi pertama mu",
+          "estimation": 9000,
+          "image_header": "'https://i.ibb.co/vDfFpfw/image.png'",
+          "content" : "<b>Lorem ipsum dolor</b> adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an, saat seorang tukang cetak yang tidak dikenal mengambil sebuah kumpulan teks dan mengacaknya untuk menjadi sebuah buku contoh huruf. Ia tidak hanya bertahan selama 5 abad, tapi juga telah beralih ke penataan huruf elektronik, tanpa ada perubahan apapun. Ia mulai dipopulerkan pada tahun 1960 dengan diluncurkannya lembaran-lembaran Letraset yang menggunakan kalimat-kalimat dari Lorem Ipsum, dan seiring munculnya perangkat lunak Desktop Publishing seperti Aldus PageMaker juga memiliki versi Lorem Ipsum."
+        }
+      ]
     }
-    
   ]
 }
