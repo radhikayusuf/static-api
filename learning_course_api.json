@@ -6,20 +6,20 @@
       "title": "Pemodelan Data",
       "steps_count": 5,
       "sub_title": "Untuk Pemula",
-      "image_url": "'https://i.ibb.co/vDfFpfw/image.png'",
+      "image_url": "https://i.ibb.co/vDfFpfw/image.png",
       "total_time": 36000,
       "desc": "Model data sendiri dapat didefinisikan sebagai kumpulan perangkat konseptual untuk menggambarkan data, hubungan data, semantik (makna) data dan btasan data.",
       "steps": [
         {
           "title": "Pemodelan data",
           "estimation": 9000,
-          "image_header": "'https://i.ibb.co/vDfFpfw/image.png'",
+          "image_header": "https://i.ibb.co/vDfFpfw/image.png",
           "content" : "<p>Model data sendiri dapat didefinisikan sebagai kumpulan perangkat konseptual untuk menggambarkan data, hubungan data, semantik (makna) data dan btasan data. Oleh karena yang ingin ditunjukkan adalah makna dari data dan keterhubungannya dengan data lain, maka model data ini lebih tepat jika disebut <strong>Model Data Lojik</strong>. Penyingkatannya menjadi Model Data dilakukan demi penyederhanaan penulisan.</p> Ada sejumlah cara dalam merepresentasikan Model Data dalam perancangan <strong>basis data</strong>, yang secara umum dapat dibagi dalam 2 kelompok, yaitu :"
         },
         {
           "title": "Object-Based Logical Models",
           "estimation": 9000,
-          "image_header": "'https://i.ibb.co/vDfFpfw/image.png'",
+          "image_header": "https://i.ibb.co/vDfFpfw/image.png",
           "content" : "<p>Model data berdasarkan objek merupakan himpunan data dan relasi yang menjelaskan hubungan logik antara data dalam basis data berdasarkan objek datanya. Model data berdasarkan objek di bagi 2, yaitu :</p> <br><strong>a. Model Keterhubungan Entitas (Entity-Relationship Model)</strong><br><p>Model keterhubungan entitas yaitu menjelaskan hubungan antar data berdasarkan suatu persepsi bahwa objek di dunia nyata memiliki hubungan atau relasi dengan objek di dunia nyata lainnya. Model ini pertama diperkenalkan oleh Peter Chen pada tahun 1976.</p><p>Model keterhubungan entitas berisi ketentuan atau aturan khusus yang harus dipenuhi oleh isi database. Aturan terpenting adalah Mapping Cardinslities, yang menentukan jumlah entitas yang dapat dikaitkan dengan entitas lainnya melalui relationship-set. Contoh model keterhubungan entitas :</p> <img src='https://i.ibb.co/2KDzMZL/1.png'></p><br><strong>b.Semantic Data Model</strong><p>Pada dasarnya model data semantik memiliki arti yang hampir sama dengan model data keterhubungan. Hanya perbedaan yang tampak pada relasi objek dasar yang tidak dinyatakan dengan simbol melainkan menggunakan kata-kata (semantic). Contohnya pada model data semantik, tanda panah menunjukkan adanya relasi antar entitas, sedangkan garis lurus menunjukkan atribut / unsur dari entitas. Contoh model data semantik :</p> <img src='https://i.ibb.co/yYBcCF1/image.png'></p>"
         },
         {
