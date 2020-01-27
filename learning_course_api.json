@@ -3,24 +3,24 @@
   "message": "Success retrieved data",
   "data": [
     {
-      "title": "Cara Membuat Aplikasi android",
+      "title": "Pemodelan Data",
       "steps_count": 5,
       "sub_title": "Untuk Pemula",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoQJazpADZzh6bkZ89cAUGBMW1--Vov-KeC_ZwiWdsUxRvKc7M",
       "total_time": 36000,
-      "desc": "Ini merupakan tutorial singkat untuk android, sangat di rekomendasikan untuk awal pembelajaran programming, lorem ipsum dolor sit amet.",
+      "desc": "Model data sendiri dapat didefinisikan sebagai kumpulan perangkat konseptual untuk menggambarkan data, hubungan data, semantik (makna) data dan btasan data.",
       "steps": [
         {
-          "title": "Mempelajari Layout.",
+          "title": "Pemodelan data.",
           "estimation": 9000,
           "image_header": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpXvHAekY0Zr9M6Qw2CUiCLgG6tgtm_MsNfChTr77hRdyoFCfO",
-          "content" : "<b>Lorem ipsum dolor</b> adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an, saat seorang tukang cetak yang tidak dikenal mengambil sebuah kumpulan teks dan mengacaknya untuk menjadi sebuah buku contoh huruf. Ia tidak hanya bertahan selama 5 abad, tapi juga telah beralih ke penataan huruf elektronik, tanpa ada perubahan apapun. Ia mulai dipopulerkan pada tahun 1960 dengan diluncurkannya lembaran-lembaran Letraset yang menggunakan kalimat-kalimat dari Lorem Ipsum, dan seiring munculnya perangkat lunak Desktop Publishing seperti Aldus PageMaker juga memiliki versi Lorem Ipsum. adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an, saat seorang tukang cetak yang tidak dikenal mengambil sebuah kumpulan teks dan mengacaknya untuk menjadi sebuah buku contoh huruf. Ia tidak hanya bertahan selama 5 abad, tapi juga telah beralih ke penataan huruf elektronik, tanpa ada perubahan apapun. Ia mulai dipopulerkan pada tahun 1960 dengan diluncurkannya lembaran-lembaran Letraset yang menggunakan kalimat-kalimat dari Lorem Ipsum, dan seiring munculnya perangkat lunak Desktop Publishing seperti Aldus PageMaker juga memiliki versi Lorem Ipsum."
+          "content" : "<p>Model data sendiri dapat didefinisikan sebagai kumpulan perangkat konseptual untuk menggambarkan data, hubungan data, semantik (makna) data dan btasan data. Oleh karena yang ingin ditunjukkan adalah makna dari data dan keterhubungannya dengan data lain, maka model data ini lebih tepat jika disebut <strong>Model Data Lojik</strong>. Penyingkatannya menjadi Model Data dilakukan demi penyederhanaan penulisan.</p> Ada sejumlah cara dalam merepresentasikan Model Data dalam perancangan <strong>basis data</strong>, yang secara umum dapat dibagi dalam 2 kelompok, yaitu :"
         },
         {
-          "title": "Mempelajari Java",
+          "title": "Object-Based Logical Models",
           "estimation": 9000,
           "image_header": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpXvHAekY0Zr9M6Qw2CUiCLgG6tgtm_MsNfChTr77hRdyoFCfO",
-          "content" : "<b>Lorem ipsum dolor</b> adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an, saat seorang tukang cetak yang tidak dikenal mengambil sebuah kumpulan teks dan mengacaknya untuk menjadi sebuah buku contoh huruf. Ia tidak hanya bertahan selama 5 abad, tapi juga telah beralih ke penataan huruf elektronik, tanpa ada perubahan apapun. Ia mulai dipopulerkan pada tahun 1960 dengan diluncurkannya lembaran-lembaran Letraset yang menggunakan kalimat-kalimat dari Lorem Ipsum, dan seiring munculnya perangkat lunak Desktop Publishing seperti Aldus PageMaker juga memiliki versi Lorem Ipsum."
+          "content" : "<p>Model data berdasarkan objek merupakan himpunan data dan relasi yang menjelaskan hubungan logik antara data dalam basis data berdasarkan objek datanya. Model data berdasarkan objek di bagi 2, yaitu :</p> <br><storng>a. Model Keterhubungan Entitas (Entity-Relationship Model)</storng></br><p></p>"
         },
         {
           "title": "Memahami Activity",
